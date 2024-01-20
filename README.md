@@ -17,7 +17,7 @@ The easiest way is to download the executable file or JAR(if you already have ja
 
 ### For Compression
 To compress a folder, here's this example:
-```sh
+```cmd
 Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? c
 
 ---You chose COMPRESSION---
