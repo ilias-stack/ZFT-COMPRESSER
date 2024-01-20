@@ -16,5 +16,5 @@ The easiest way is to download the executable file or JAR(if you already have ja
 
 ### For Compression
 To compress a folder, follow these steps:
-```salam
+```salam```
 
