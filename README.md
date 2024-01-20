@@ -28,7 +28,7 @@ Password is app
 
 FOLDER WAS COMPRESSED SUCCESSFULLY!
 ```
-NOTE: You can leave the password field empty if you don't need want to.
+**NOTE**: You can leave the password field empty if you don't need to require a password for your file decompression.
 
 ### For Decompression
 To decompress a file.zft, here's this example:
@@ -44,3 +44,8 @@ app
 
 FILE WAS DECOMPRESSED SUCCESSFULLY!
 ```
+
+Some additional guidance:
+1. It is generally more reliable if you use the **absolute path** rather than the relative.
+2. The compression places the *file.zft* in the same location as the executable.
+3. The decompression places the decopmressed folder in the same location as the *file.zft*.
