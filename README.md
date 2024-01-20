@@ -22,7 +22,7 @@ Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? c
 
 ---You chose COMPRESSION---
 
-Please enter the path of the folder to compress :C:\Users\ilyas\source\repos\TestApplication
+Please enter the path of the folder to compress :path\to\YourFolder
 ->If you want to add a password type it : app
 Password is app
 
@@ -37,7 +37,7 @@ Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? d
 
 ---You chose DECOMPRESSION---
 
-Please enter .zft file path :C:\Users\ilyas\Downloads\TestApplication.zft
+Please enter .zft file path :path\to\YourFolder.zft
 
 -This file is protected with a password! Please type it before continuing :
 app
