@@ -13,8 +13,8 @@ ZFT-COMPRESSER is a Java-based console application for compressing and decompres
 
 ## Usage
 The easiest way is to download the executable file or JAR(if you already have java installed in your machine) and follow these easy steps.
+```Run the excutable file inside your terminal```
 
 ### For Compression
 To compress a folder, follow these steps:
-```salam```
 
