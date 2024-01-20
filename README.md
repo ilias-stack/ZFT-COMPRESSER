@@ -27,4 +27,20 @@ Please enter the path of the folder to compress :C:\Users\ilyas\source\repos\Tes
 Password is app
 
 FOLDER WAS COMPRESSED SUCCESSFULLY!
+```
+NOTE: You can leave the password field empty if you don't need want to.
 
+### For Decompression
+To decompress a file.zft, here's this example:
+```
+Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? d
+
+---You chose DECOMPRESSION---
+
+Please enter .zft file path :C:\Users\ilyas\Downloads\TestApplication.zft
+
+-This file is protected with a password! Please type it before continuing :
+app
+
+FILE WAS DECOMPRESSED SUCCESSFULLY!
+```
