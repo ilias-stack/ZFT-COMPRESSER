@@ -13,9 +13,9 @@ ZFT-COMPRESSER is a Java-based console application for compressing and decompres
 
 ## Usage
 The easiest way is to download the executable file or JAR(if you already have java installed in your machine) and follow these easy steps.
-```Then run the excutable file inside your terminal```
+```After running the excutable file inside your terminal```
 
-### For Compression
+### Compression
 To compress a folder, here's this example:
 ```
 Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? c
@@ -30,7 +30,7 @@ FOLDER WAS COMPRESSED SUCCESSFULLY!
 ```
 **NOTE**: You can leave the password field empty if you don't need to require a password for your file decompression.
 
-### For Decompression
+### Decompression
 To decompress a file.zft, here's this example:
 ```
 Do you want to compress(to folder.zft) or decompress(from folder.zft) [C/D]? d
